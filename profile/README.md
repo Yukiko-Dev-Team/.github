@@ -5,7 +5,7 @@ We are the people making Yukiko!
 ## Information: 
 [Yukiko bot's Change Logs](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/V2_Changlogs.MD#known-bug) | [Yukiko Website Change Logs](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/Website_Changelogs.MD) | [Yukiko Bot Road Map](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/V2_RoadMap.MD)
   
-  ### Breaking: [Infos on Discord.js 14 Update](https://github.com/discordjs/discord.js/blob/main/packages/discord.js/CHANGELOG.md#changelog)
+  ### Breaking: [Infos on Discord.js 14 Update](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/Discord.JS_14_Update.MD)
   
 [Discord Support Server]() | [Yukiko Dev Team Website](https://team.yukiko.app) | [Yukiko Website](https://yukiko.app)
 
