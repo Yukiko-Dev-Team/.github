@@ -1,6 +1,7 @@
-![](https://cdn.asthriona.com/i/2021/11/yukiko%20copy.png)
-# Yukiko Dev Team
-We are the people making Yukiko!
+# Welcome to Stellar!
+## Who are we? 
+Formerly known as the Yukiko Dev Team, Stellar is a developement company, that focus around online entertainment, and doing our best to revolution the internet.  
+as for now, we made the Discord bot Yukiko, and a lot of cooperation with others company to build their internal tools, by this fact making their workflow easier to their own employee.
 
 ## Information: 
 [Yukiko bot's Change Logs](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/V2_Changlogs.MD#known-bug) | [Yukiko Website Change Logs](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/Website_Changelogs.MD) | [Yukiko Bot Road Map](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/V2_RoadMap.MD)
@@ -9,7 +10,4 @@ We are the people making Yukiko!
   
 [Discord Support Server]() | [Yukiko Dev Team Website](https://team.yukiko.app) | [Yukiko Website](https://yukiko.app)
 
-# Who Are We? 
-We are the Yukiko Dev Team, a bunch of developper that have time to spare, so we make software that's hopefully usefull. 
-
-# More info Soon!
+## More to come soon!
