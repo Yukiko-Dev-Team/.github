@@ -8,6 +8,10 @@ as for now, we made the Discord bot Yukiko, and a lot of cooperation with others
   
   ### Breaking: [Infos on Discord.js 14 Update](https://github.com/Yukiko-Dev-Team/Yukiko-Info/blob/master/Discord.JS_14_Update.MD)
   
-[Discord Support Server]() | [Yukiko Dev Team Website](https://team.yukiko.app) | [Yukiko Website](https://yukiko.app)
+[Discord Support Server]() | [Yukiko Dev Team Website](https://team.yukiko.app) | [Yukiko Website](https://yukiko.app)  
+  
+## Yukiko Bot lists  
+[![Discord Bots](https://top.gg/api/widget/641626560457342987.svg)](https://top.gg/bot/641626560457342987)
+
 
 ## More to come soon!
