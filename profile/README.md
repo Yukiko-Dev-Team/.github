@@ -12,6 +12,3 @@ as for now, we made the Discord bot Yukiko, and a lot of cooperation with others
   
 ## Yukiko Bot lists  
 [![Discord Bots](https://top.gg/api/widget/641626560457342987.svg)](https://top.gg/bot/641626560457342987)
-
-
-## More to come soon!
